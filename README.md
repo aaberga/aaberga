@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aldo
 - 👀 I’m interested in work in the mobile/iOS native area
-- 🌱 I’m currently learning Swift UI, past the 'Hello World Stage'
+- 🌱 I’m currently learning Swift UI, past the 'Hello World Stage' -> Creating a generic solution as ViewModel for a SwiftUI app reusing the great Charts repo!
 - 💞️ I’m looking to collaborate on projects in telecom, aviation, travel industry, industrial projects, healthcare/medical,
 - 📫 How to reach me: use the Calendly link https://calendly.com/aaberga/introductory-chat
 
